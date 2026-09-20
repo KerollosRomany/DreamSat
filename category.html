@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>دريم سات</title>
+    <meta name="description" content="تصفح تشكيلة دريم سات من الأجهزة الكهربائية والمنزلية في الغردقة بأفضل الأسعار.">
+    <link rel="icon" type="image/png" href="assets/images/logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="upper-page">
+        <div class="location">
+            📍 أمام مسجد الدهار الكبير - دريم سات
+        </div>
+        <div class="contact">
+            <a href="contact.html">تواصل معنا</a>
+        </div>
+        <div class="phone">
+            <a href="tel:01282609597">📞 01282609597</a>
+        </div>
+    </div>
+    <header class="main-header">
+        <div class="container">
+
+            <!-- Logo -->
+            <a href="index.html" class="logo">
+                <img src="assets/images/logo.png" alt="دريم سات للأجهزة الكهربائية">
+            </a>
+
+            <!-- Search -->
+            <div class="search-wrapper">
+                <form class="search-form" id="searchForm">
+                    <input type="search" id="searchInput" placeholder="بتدور علي إِيه ؟" aria-label="البحث عن منتج" autocomplete="off">
+                    <button type="submit" aria-label="بحث"><svg xmlns="http://w3.org" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="11" cy="11" r="8"></circle>
+  <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+</svg>
+                    </button>
+                </form>
+
+                <div class="search-results" id="searchResults"></div>
+            </div>
+            <!-- Contact / WhatsApp -->
+            <div class="header-contact">
+                <a href="https://wa.me/201222910027" class="btn-whatsapp" target="_blank" rel="noopener noreferrer">
+                    <span>اطلب عبر واتساب</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <div class="nav-wrapper">
+        <nav class="navigation">
+            <ul class="categories">
+                <li>
+                    <a href="index.html">
+                        <img src="assets/images/logo.png" alt="الرئيسية">
+                        <span>الرئيسية</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="category.html?category=satellites-receivers">
+                        <img src="assets/images/مستلزمات الدش والرسيفرات.png" alt="مستلزمات الدش والرسيفرات">
+                        <span>مستلزمات الدش والرسيفرات</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="category.html?category=screens">
+                        <img src="assets/images/Tv-png_002_.png" alt="شاشات">
+                        <span>شاشات</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="category.html?category=kitchen-appliances">
+                        <img src="assets/images/kitchen.png" alt="أجهزة المطبخ">
+                        <span>أجهزة المطبخ</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="category.html?category=beverages">
+                        <img src="assets/images/Kettles-_-Coffee-Machines_1__1.png" alt="المشروبات والأدوات الحرارية">
+                        <span>المشروبات والأدوات الحرارية</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="category.html?category=shavers">
+                        <img src="assets/images/vgr.webp" alt="ماكينات الحلاقة">
+                        <span>ماكينات الحلاقة</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="category.html?category=tank">
+                        <img src="assets/images/tank-products.png" alt="منتجات تانك">
+                        <span>منتجات تانك</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="category.html?category=water-coolers">
+                        <img src="assets/images/water-cooler.png" alt="مبردات المياه">
+                        <span>مبردات المياه</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="category.html?category=kitchen-exhaust">
+                        <img src="assets/images/شفاطات.webp" alt="الشفاطات">
+                        <span>الشفاطات</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="category.html?category=irons">
+                        <img src="assets/images/Irons.png" alt="المكاوي">
+                        <span>المكاوي</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="contact.html">
+                        <img src="assets/images/contact_us.png" alt="تواصل معنا">
+                        <span>تواصل معنا</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <span class="scroll-hint">‹‹</span>
+    </div>
+    <section class="category-page ">
+
+        <div class="breadcrumb ">
+            <a href="index.html ">الرئيسية</a>
+            <span class="breadcrumb-separator "> < </span>
+            <span id="breadcrumb-category"></span>
+        </div>
+
+        <div class="category-banner fade-section">
+            <div class="category-banner-content ">
+                <h1 id="category-title"></h1>
+                <p id="category-description"></p>
+            </div>
+            <div class="category-banner-image ">
+                <img id="category-image" src=" " alt=" ">
+            </div>
+        </div>
+
+        <div class="category-products ">
+            <article class="category-card ">
+                <div class="category-card-details ">
+                    <a href="product.html ">
+                        <img src=" " alt=" " class="category-product-image ">
+                        <h3 class="category-product-name "></h3>
+                        <span class="category-product-price "></span>
+                    </a>
+                </div>
+                <div class="category-card-contact ">
+                    <a href="https://wa.me/201222910027 " class="btn-whatsapp " target="_blank " rel="noopener noreferrer ">
+                        <span>اطلب الآن</span>
+                    </a>
+                </div>
+            </article>
+        </div>
+        <div id="category-pagination"></div>
+    </section>
+    <footer class="footer">
+
+        <div class="footer-container">
+            <div class="footer-column footer-brand">
+                <a href="index.html" class="footer-logo">
+                    <img src="assets/images/logo.png" alt="دريم سات للأجهزة الكهربائية">
+                </a>
+                <p>
+                    دريم سات للأجهزة الكهربائية والإلكترونيات ومستلزماتها.
+                </p>
+            </div>
+            <div class="footer-column">
+
+                <h3>روابط سريعة</h3>
+
+                <ul>
+                    <li>
+                        <a href="index.html">الرئيسية</a>
+                    </li>
+                    <li>
+                        <a href="index.html#best-sellers">الأكثر مبيعاً</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">تواصل معنا</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="footer-column ">
+                <h3>تابعنا</h3>
+                <div class="social-links ">
+                    <a href="https://www.facebook.com/dreamsat2 " target="_blank " rel="noopener noreferrer ">
+                    Facebook
+                    </a>
+                    <a href="https://wa.me/201222910027 " target="_blank " rel="noopener noreferrer " aria-label="WhatsApp ">
+                    WhatsApp
+                </a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom ">
+            <p>
+                © 2026 دريم سات للأجهزة الكهربائية
+            </p>
+            <p>
+                جميع الحقوق محفوظة
+            </p>
+        </div>
+    </footer>
+    <script src="js/shared.js"></script>
+    <script src="js/category.js"></script>
+    <script src="js/search.js"></script>
+
+</body>
+
+</html>

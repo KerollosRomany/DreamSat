@@ -1,0 +1,16 @@
+[{
+        "id": 1,
+        "image": "assets/images/hero1.webp",
+        "alt": "عروض دريم سيت"
+    },
+    {
+        "id": 2,
+        "image": "assets/images/hero2.webp",
+        "alt": "أحدث منتجات دريم سيت"
+    },
+    {
+        "id": 3,
+        "image": "assets/images/hero3.webp",
+        "alt": "عروض الأجهزة المنزلية"
+    }
+]

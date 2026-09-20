@@ -1,0 +1,706 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "شاشة سمارت استرا",
+            "nameEn": "ASTRA Smart TV",
+            "price": 9799,
+            "category": "screens",
+            "image": "assets/images/astra_43.webp",
+            "description": "حجم الشاشة:\n43 بوصة\n\nنوع الشاشة:\nLED\n\nدقة الشاشة:\nFull HD\n1920×1080\n\nأهم المميزات:\nالشاشة عالية الوضوح\nشكل خارجى أنيق بدون اطار\nمدخل صوت وصورة AV\nمخرج صوت Digital\nمدخل كابل إنترنت RJ 45\nذات إمتدادات مختلفة يدعم تشغيل ملفات video\nالخارجية (MP3) يدعم تشغيل ملفات الاوديو\nعرض ملفات الصور الخارجية\nذاكرة داخلية تصل إلى 8 GB\nخاصية تصفح مواقع الانترنت\nأيقونات للدخول على مواقع التواصل الاجتماعى\nلمشاهدة أحدث الاف"
+        },
+        {
+            "id": 2,
+            "name": "شاشة LED 43 بوصة",
+            "nameEn": "RED & WHITE RT43",
+            "price": 8599,
+            "category": "screens",
+            "image": "assets/images/red&white.webp",
+            "description": "شاشة LED مقاس 43 بوصة.\n\nالتصميم: بدون إطار (Frameless).\n\nالمواصفات العامة:\n📺 الحجم: 43 بوصة (108 سم)\n\n🔌 المداخل:\n2 × USB\n3 × HDMI"
+        },
+        {
+            "id": 3,
+            "name": "شاشة بروتيك 32 بوصة",
+            "nameEn": "PROTECH AS-2607-32",
+            "price": 4599,
+            "category": "screens",
+            "image": "assets/images/protech.webp",
+            "description": "الماركة: بروتيك (PROTECH)\nنوع الشاشة: LED\nمقاس الشاشة: 32 بوصة\nرقم الموديل: AS-2607-32\nدقة العرض: HD 720p (عالية الدقة)\nالتصميم: تصميم فائق النحافة (Ultra Slim)\nالمميزات التقنية: فلتر تقليل التشويش الرقمي (Digital Noise Reduction Filter)\nالمنافذ والتوصيل: منافذ USB و HDMI"
+        },
+        {
+            "id": 4,
+            "name": "شاشة جاك 32 بوصة",
+            "nameEn": "JAC 32JE3110F",
+            "price": 5199,
+            "category": "screens",
+            "image": "assets/images/jac32.webp",
+            "description": "العلامة التجارية: جاك (JAC)\nرقم الموديل: 32JE3110F\nمقاس الشاشة: 32 بوصة\nدقة الشاشة: 1280 × 720 بكسل (عالية الدقة HD)\nتقنية العرض: LED\nالتصميم: بدون إطار (Frameless) يمنح شكلاً عصرياً وتركيزاً كاملاً على الشاشة\nالمداخل والمخارج:\nعدد 2 مداخل HDMI\nعدد 2 مداخل USB\nمدخل AV Cable\nبلد المنشأ: مصر\nالضمان: سنتان"
+        }, {
+            "id": 5,
+            "name": "قلاية هوائية سيلفر كريست 8 لتر",
+            "nameEn": "Silver Crest 8L Air Fryer",
+            "price": 1899,
+            "category": "kitchen-appliances",
+            "image": "assets/images/silver_crest_8.webp",
+            "description": "العلامة التجارية: سيلفر كريست (Silver Crest)\nالسعة: 8 لتر\nالقوة: 2400 واط\nالتحكم: شاشة لمس رقمية ذكية\nالبرامج: 8 برامج طهي تلقائية تشمل البطاطس واللحوم والأسماك والكيك وغيرها\nالتقنية: توزيع هواء ساخن بزاوية 360 درجة\nالدهون: تساعد على الطهي باستخدام دهون أقل بنسبة تصل إلى 90%\nالأمان: فصل تلقائي عند سحب الدرج أو انتهاء وقت الطهي\nالتنظيف: سلة داخلية غير لاصقة وسهلة الغسل"
+        },
+        {
+            "id": 6,
+            "name": "قلاية هوائية سيلفر كريست 6 لتر",
+            "nameEn": "Silver Crest 6L Air Fryer",
+            "price": 1299,
+            "category": "kitchen-appliances",
+            "image": "assets/images/silver_crest_6.webp",
+            "description": "العلامة التجارية: سيلفر كريست (Silver Crest)\nالسعة: 6 لتر\nالقوة: 2400 واط تقريباً\nلوحة التحكم: شاشة ديجيتال بالكامل تعمل باللمس (LCD)\nالبرامج: برامج طهي مسبقة الإعداد للبطاطس والفراخ واللحوم والأسماك\nالوعاء الداخلي: سلة عميقة مطلية بطبقة غير لاصقة وسهلة الفصل والتنظيف\nالأمان: مقبض عازل للحرارة ونظام حماية تلقائي يفصل الجهاز عند سحب الحلة أو ارتفاع درجة الحرارة بشكل زائد"
+        },
+        {
+            "id": 7,
+            "name": "بوتجاز كهربائي بلاطة ديجيتال 2200 وات",
+            "nameEn": "Digital Electric Hot Plate 2200W",
+            "price": 1250,
+            "category": "kitchen-appliances",
+            "image": "assets/images/HP2200.webp",
+            "description": "النوع: بوتجاز كهربائي بلاطة ديجيتال قابل للحمل\nالقوة الكهربائية: 2200 واط\nالتحكم: تاتش ديجيتال\nعنصر التسخين: سيراميك\nالتقنية: الأشعة تحت الحمراء\nالمؤقت: مزود بمؤقت رقمي\nالاستخدام: مناسب للطهي على الطاولة وتسخين القهوة والحليب والماء\nمصدر الطاقة: موصل بسلك كهربائي\nالأمان: آمن وموثوق\nالتنظيف: سهل التنظيف بعد الاستخدام\nمميزات خاصة: كهربائي ومتعدد الوظائف"
+        },
+        {
+            "id": 8,
+            "name": "سخان بلاطة 1000 وات",
+            "nameEn": "Electric Hot Plate 1000W",
+            "price": 350,
+            "category": "kitchen-appliances",
+            "image": "assets/images/HP1000.webp",
+            "description": "النوع: سخان بلاطة كهربائي\nالقوة الكهربائية: 1000 واط\nالاستخدام: مناسب لتسخين وطهي الطعام والمشروبات\nمصدر الطاقة: كهربائي\nالتصميم: صغير وقابل للحمل وسهل الاستخدام"
+        },
+        {
+            "id": 9,
+            "name": "كبة 5 لتر 5 سرعات",
+            "nameEn": "5L Food Chopper 5 Speeds",
+            "price": 750,
+            "category": "kitchen-appliances",
+            "image": "assets/images/Food5.webp",
+            "description": "النوع: كبة كهربائية\nالسعة: 5 لتر\nعدد السرعات: 5 سرعات\nالاستخدام: مناسبة لتقطيع وفرم المكونات المختلفة\nالتصميم: عملية وسهلة الاستخدام والتنظيف"
+        },
+        {
+            "id": 10,
+            "name": "زجاجة حرارية Vacuum 520 مل",
+            "nameEn": "520ml Vacuum Bottle",
+            "price": 240,
+            "category": "beverages",
+            "image": "assets/images/Vacuum Bottle.webp",
+            "description": "زجاجة حرارية بسعة 520 مل."
+        },
+        {
+            "id": 11,
+            "name": "زجاجة حرارية Vacuum 680 مل",
+            "nameEn": "680ml Vacuum Bottle",
+            "price": 280,
+            "category": "beverages",
+            "image": "assets/images/Vacuum Bottle.webp",
+            "description": "زجاجة حرارية بسعة 680 مل."
+        },
+        {
+            "id": 12,
+            "name": "مج حراري ديجتال 500 مل",
+            "nameEn": "500ml Digital Thermal Mug",
+            "price": 135,
+            "category": "beverages",
+            "image": "assets/images/مج حراري ديجتال 500ml.webp",
+            "description": "مج حراري ديجتال بسعة 500 مل."
+        },
+        {
+            "id": 13,
+            "name": "مج حراري 380 مل",
+            "nameEn": "380ml Thermal Mug",
+            "price": 145,
+            "category": "beverages",
+            "image": "assets/images/مج حراري 380ml .webp",
+            "description": "مج حراري بسعة 380 مل."
+        },
+        {
+            "id": 14,
+            "name": "مج حراري ستانلس ستيل Vacuum",
+            "nameEn": "Stainless Steel Vacuum Thermal Mug",
+            "price": 130,
+            "category": "beverages",
+            "image": "assets/images/مج حراري .webp",
+            "description": "مج حراري مصنوع من الستانلس ستيل بتقنية Vacuum."
+        },
+        {
+            "id": 15,
+            "name": "مج حراري + 2 كوب",
+            "nameEn": "Thermal Flask Set with 2 Cups",
+            "price": 165,
+            "category": "beverages",
+            "image": "assets/images/Thermal Flask Set with 2 Cups.webp",
+            "description": "مج حراري مع 2 كوب."
+        },
+        {
+            "id": 16,
+            "name": "كاتل ستانلس 1.5 لتر",
+            "nameEn": "1.5L Stainless Steel Kettle",
+            "price": 199,
+            "category": "beverages",
+            "image": "assets/images/كاتل ستانلس  1.5 لتر .webp",
+            "description": "كاتل ستانلس ستيل بسعة 1.5 لتر."
+        },
+        {
+            "id": 17,
+            "name": "كاتل شاي 0.5 لتر للسفر",
+            "nameEn": "0.5L Travel Tea Kettle",
+            "price": 275,
+            "category": "beverages",
+            "image": "assets/images/كاتل شاي 0.5 لتر للسفر.webp",
+            "description": "كاتل شاي بسعة 0.5 لتر مناسب للسفر."
+        },
+        {
+            "id": 18,
+            "name": "كاتل شاي بايركس 2 لتر",
+            "nameEn": "2L Pyrex Tea Kettle",
+            "price": 399,
+            "category": "beverages",
+            "image": "assets/images/كاتل شاي بايركس 2 لتر.webp",
+            "description": "كاتل شاي بايركس بسعة 2 لتر."
+        },
+        {
+            "id": 19,
+            "name": "كاتل شاي عاج 2 لتر ابيض",
+            "nameEn": "Ivory 2-Liter White Tea Kettle",
+            "price": 425,
+            "category": "beverages",
+            "image": "assets/images/Ivory 2-Liter White Tea Kettle.webp",
+            "description": "كاتل شاي سعة 2 لتر."
+        },
+        {
+            "id": 20,
+            "name": "كاتل شاي عاج 2 لتر اسود",
+            "nameEn": "Ivory 2-Liter Black Tea Kettle",
+            "price": 425,
+            "category": "beverages",
+            "image": "assets/images/Ivory 2-Liter Black Tea Kettle.webp",
+            "description": "كاتل شاي سعة 2 لتر."
+        },
+        {
+            "id": 21,
+            "name": "كاتل قهوة مستورد 0.5 لتر",
+            "nameEn": "0.5L Imported Coffee Kettle",
+            "price": 185,
+            "category": "beverages",
+            "image": "assets/images/كاتل قهوه مستورد 0.5 لتر.webp",
+            "description": "كاتل قهوة مستورد بسعة 0.5 لتر."
+        },
+        {
+            "id": 22,
+            "name": "كاتل قهوة ستانلس 0.8 لتر",
+            "nameEn": "0.8L Stainless Steel Coffee Kettle",
+            "price": 335,
+            "category": "beverages",
+            "image": "assets/images/كاتل قهوه ستانلس 0.8 لتر.webp",
+            "description": "كاتل قهوة ستانلس ستيل بسعة 0.8 لتر."
+        },
+        {
+            "id": 23,
+            "name": "كاتل قهوة زجاج 0.8 لتر",
+            "nameEn": "0.8L Glass Coffee Kettle",
+            "price": 299,
+            "category": "beverages",
+            "image": "assets/images/كاتل قهوه زجاج 0.8 لتر.webp",
+            "description": "كاتل قهوة زجاج بسعة 0.8 لتر."
+        },
+        {
+            "id": 24,
+            "name": "ماكينة حلاقة VGR V-055",
+            "nameEn": "VGR V-055 Cordless Hair Clipper",
+            "price": 390,
+            "category": "shavers",
+            "image": "assets/images/v-55.webp",
+            "description": "ماكينة حلاقة VGR لاسلكية للرجال\nقابلة للشحن\nرقم الموديل: V-055\nاللون: أسود"
+        },
+        {
+            "id": 25,
+            "name": "ماكينة حلاقة VGR V-228",
+            "nameEn": "VGR V-228 Professional Hair Clipper",
+            "price": 550,
+            "category": "shavers",
+            "image": "assets/images/v-228.webp",
+            "description": "ماكينة حلاقة شعر احترافية للرجال\nرقم الموديل: V-228\nشاشة: LED\nالجسم: معدني متعدد الألوان\nالشحن: USB"
+        },
+        {
+            "id": 26,
+            "name": "ماكينة حلاقة VGR V-360",
+            "nameEn": "VGR V-360 Multi-Function Grooming Kit",
+            "price": 640,
+            "category": "shavers",
+            "image": "assets/images/v-360.webp",
+            "description": "ماكينة حلاقة متعددة الاستخدامات للرجال\nرقم الموديل: V-360\nالاستخدام: مناسبة للعناية بالجسم بالكامل\nاللون: أسود وأخضر"
+        },
+        {
+            "id": 27,
+            "name": "ماكينة حلاقة VGR V-290",
+            "nameEn": "VGR V-290 Professional Hair Clipper",
+            "price": 435,
+            "category": "shavers",
+            "image": "assets/images/v-290.webp",
+            "description": "ماكينة حلاقة شعر احترافية للرجال\nرقم الموديل: V-290\nشاشة: LED\nاللون: ذهبي"
+        },
+        {
+            "id": 28,
+            "name": "ماكينة حلاقة VGR V-210",
+            "nameEn": "VGR V-210 3-in-1 Grooming Kit",
+            "price": 385,
+            "category": "shavers",
+            "image": "assets/images/v-210.webp",
+            "description": "ماكينة حلاقة VGR متعددة الوظائف\nرقم الموديل: V-210\nالنوع: مجموعة احترافية للعناية بالرجال\nالمميزات: 3 في 1"
+        },
+        {
+            "id": 29,
+            "name": "فلتر تانك باور بلس 5 مراحل",
+            "nameEn": "Tank Power Plus 5 Stages Water Filter",
+            "price": 1399,
+            "category": "tank",
+            "image": "assets/images/filter5.webp",
+            "description": "فلتر مياه تانك باور بلس مكون من 5 مراحل لتنقية المياه."
+        },
+        {
+            "id": 30,
+            "name": "فلتر تانك باور 3 مراحل",
+            "nameEn": "Tank Power 3 Stages Water Filter",
+            "price": 980,
+            "category": "tank",
+            "image": "assets/images/filter3.webp",
+            "description": "فلتر مياه تانك باور مكون من 3 مراحل لتنقية المياه."
+        },
+        {
+            "id": 31,
+            "name": "فلتر تانك باور بلس 7 مراحل",
+            "nameEn": "Tank Power Plus 7 Stages Water Filter",
+            "price": 4825,
+            "category": "tank",
+            "image": "assets/images/filter7.webp",
+            "description": "كفاءة الشمعة تدوم حتى 12 شهر.\n\nشمعة تانك باور بوست كاربون مصنوعة بتكنولوجيا الحبيبات الدقيقة والتي تضمن امتصاص 99.9٪ من الكلور واللون والطعم والرائحة.\n\nخامات مخصصة لمياه الشرب ومعتمدة من منظمة الغذاء والدواء العالمية.\n\nمثالي للتركيب تحت الحوض.\n\nقاعدة ضد الصدأ مصنوعة من البلاستيك المخصص للاستعمال مع الأكل والشرب.\n\nدبل جوان لضمان عدم التسريب.\n\nمزود بجنفيه مصنوعة من الأستانلس ستيل.\n\nشمعات تانك باور بلس متوفرة في جميع منافذ البيع.\n\nأبعاد الفلتر:\nالطول: 37 سم\nالعرض: 22 سم\nالارتفاع: 52 سم"
+        },
+        {
+            "id": 32,
+            "name": "أيس تانك 16 لتر",
+            "nameEn": "Ice Tank 16L",
+            "price": 449,
+            "category": "tank",
+            "image": "assets/images/icetank16.webp",
+            "description": "مصنع من مواد آمنة صحيًا 100٪.\n\nتحفظ المياه باردة حتى 12 ساعة.\n\nتكنولوجيا Cool Curve التي تحافظ على المياه باردة وتقلل اتصالها بالأسطح الساخنة.\n\nالعزل مصنوع من مادة البولي يوريثين عالية الكثافة والتي تحمي المحتوى من درجة الحرارة الخارجية وتحفظه باردًا.\n\nمزود بتكنولوجيا Microfilter التي تنقي المياه الموجودة بداخله من الشوائب والأتربة والرمل والحشرات.\n\nسمك العزل: 28 ملم."
+        },
+        {
+            "id": 33,
+            "name": "أيس تانك ستايل 6 لتر - أحمر",
+            "nameEn": "Ice Tank Style 6L Red",
+            "price": 279,
+            "category": "tank",
+            "image": "assets/images/tank6.webp",
+            "description": "مصنع من مواد آمنة صحيًا 100٪.\n\nتحفظ المياه باردة حتى 12 ساعة.\n\nأعلى مستوى لانسياب المياه بفضل تكنولوجيا ARV التي تحافظ على ضغط المياه وتساعد على سهولة انسيابها من الحنفية.\n\nالعزل مصنوع من مادة البولي يوريثين عالية الكثافة والتي تحمي المحتوى من درجة الحرارة الخارجية وتحفظه باردًا.\n\nسمك العزل: 18.7 ملم.\n\nمزود بتكنولوجيا Microfilter التي تنقي المياه من الشوائب والأتربة والرمل والحشرات.\n\nالألوان المتوفرة: أحمر، أزرق، بنفسجي، فضي."
+        },
+        {
+            "id": 34,
+            "name": "أيس تانك 45 لتر سوبر كول - أزرق",
+            "nameEn": "Ice Tank 45L Super Cool Blue",
+            "price": 1225,
+            "category": "tank",
+            "image": "assets/images/icetank45.webp",
+            "description": "مصنع من مواد آمنة صحيًا 100٪.\n\nتحفظ المياه باردة حتى 24 ساعة.\n\nالعزل مصنوع من مادة البولي يوريثين عالية الكثافة والتي تحمي المحتوى من درجة الحرارة الخارجية وتحفظه باردًا.\n\nسمك العزل: 30 ملم.\n\nمزود بتكنولوجيا Microfilter التي تنقي المياه من الشوائب والأتربة والرمل والحشرات.\n\nصنبور مانع للتسريب نهائيًا."
+        },
+        {
+            "id": 35,
+            "name": "أيس تانك ستايل 20 لتر",
+            "nameEn": "Ice Tank Style 20L",
+            "price": 699,
+            "category": "tank",
+            "image": "assets/images/icetank20.webp",
+            "description": "أيس تانك ستايل بسعة 20 لتر لحفظ المياه باردة."
+        },
+        {
+            "id": 36,
+            "name": "أيس تانك 12 لتر - أزرق",
+            "nameEn": "Ice Tank 12L Blue",
+            "price": 399,
+            "category": "tank",
+            "image": "assets/images/icetank12.webp",
+            "description": "أيس تانك بسعة 12 لتر لحفظ المياه باردة."
+        },
+        {
+            "id": 37,
+            "name": "أيس بوكس ستايل 23 لتر",
+            "nameEn": "Ice Box Style 23L",
+            "price": 1049,
+            "category": "tank",
+            "image": "assets/images/icebox23.webp",
+            "description": "أيس بوكس ستايل بسعة 23 لتر لحفظ المشروبات والمياه باردة."
+        },
+        {
+            "id": 38,
+            "name": "أيس تانك ستايل 2.5 لتر - أزرق غامق",
+            "nameEn": "Ice Tank Style 2.5L Dark Blue",
+            "price": 199,
+            "category": "tank",
+            "image": "assets/images/tank2.5.webp",
+            "description": "أيس تانك ستايل بسعة 2.5 لتر لحفظ المياه والمشروبات باردة."
+        },
+        {
+            "id": 39,
+            "name": "مبرد مياه كولدير كلاسيك تحميل علوي",
+            "nameEn": "Coldair Classic Top Loading Water Cooler",
+            "price": 6299,
+            "category": "water-coolers",
+            "image": "assets/images/6299.webp",
+            "description": "مبرد مياه كولدير كلاسيك تحميل علوي.\n\nنظام المياه: بارد وفاتر.\n\nاللون: رمادي داكن."
+        },
+        {
+            "id": 40,
+            "name": "مبرد مياه كولدير حنفيتين بارد وساخن",
+            "nameEn": "Coldair KWD Slim Black Water Cooler",
+            "price": 6449,
+            "category": "water-coolers",
+            "image": "assets/images/6449.webp",
+            "description": "مبرد مياه كولدير موديل KWD SLIM BLACK.\n\nعدد الحنفيات: 2.\n\nنظام المياه: بارد وساخن.\n\nاللون: أسود."
+        },
+        {
+            "id": 41,
+            "name": "مبرد مياه جاك حنفيتين بارد وساخن",
+            "nameEn": "JAC 2 Taps Hot and Cold Water Cooler",
+            "price": 4650,
+            "category": "water-coolers",
+            "image": "assets/images/jac4650.webp",
+            "description": "مبرد مياه جاك.\n\nعدد الحنفيات: 2.\n\nنظام المياه: بارد وساخن."
+        },
+        {
+            "id": 42,
+            "name": "مبرد مياه مكتبي جاك 3 حنفية",
+            "nameEn": "JAC NGWD-C331T Desktop Water Cooler",
+            "price": 4280,
+            "category": "water-coolers",
+            "image": "assets/images/deskJac.webp",
+            "description": "مبرد مياه مكتبي جاك.\n\nالموديل: NGWD-C331T.\n\nالقدرة: 630 وات.\n\nعدد الحنفيات: 3.\n\nنظام المياه: بارد وساخن وفاتر.\n\nاللون: رمادي وأسود."
+        },
+        {
+            "id": 43,
+            "name": "مبرد مياه أكاي تحميل علوي 3 حنفية",
+            "nameEn": "AKAI Top Loading Water Cooler",
+            "price": 4799,
+            "category": "water-coolers",
+            "image": "assets/images/akai4799.webp",
+            "description": "مبرد مياه أكاي تحميل علوي.\n\nعدد الحنفيات: 3.\n\nنظام المياه: ساخن وبارد وفاتر.\n\nاللون: أسود."
+        }, {
+            "id": 44,
+            "name": "خلاط فريش شبح 1.5 لتر بمطحنة",
+            "nameEn": "Fresh Shabah Blender 1.5L with Grinder",
+            "price": 1149,
+            "category": "kitchen-appliances",
+            "image": "assets/images/فريش شبح.webp",
+            "description": "العلامة التجارية: فريش\nالموديل: شبح\nالسعة: 1.5 لتر\nالقدرة الكهربائية: 360 وات\nالمميزات: مزود بمطحنة\nاللون: أبيض"
+        },
+        {
+            "id": 45,
+            "name": "خلاط متعدد الوظائف 4500 وات",
+            "nameEn": "4500W Multi Function Blender",
+            "price": 899,
+            "category": "kitchen-appliances",
+            "image": "assets/images/عصارة ومطحنة.webp",
+            "description": "القدرة الكهربائية: 4500 وات\nالشفرات: 6 شفرات من الستانلس ستيل\nالمميزات: عصارة ومطحنة متعددة الوظائف\nالاستخدام: مناسب لتحضير العصائر وسحق الثلج ومعالجة الطعام\nاللون: أسود"
+        },
+        {
+            "id": 46,
+            "name": "محضر طعام 5 في 1",
+            "nameEn": "5 in 1 Food Processor",
+            "price": 2399,
+            "category": "kitchen-appliances",
+            "image": "assets/images/محضر طعام 5في1.webp",
+            "description": "النوع: محضر طعام متعدد الوظائف\nعدد الوظائف: 5 في 1\nالقدرة الكهربائية: 6600 وات\nالاستخدام: مناسب لتحضير ومعالجة الأطعمة المختلفة"
+        },
+        {
+            "id": 47,
+            "name": "كبة سيلفر كريست 3 لتر",
+            "nameEn": "Silver Crest Food Chopper 3L",
+            "price": 615,
+            "category": "kitchen-appliances",
+            "image": "assets/images/كبه سيلفر كريست 3 لتر 1000 واط.webp",
+            "description": "العلامة التجارية: سيلفر كريست\nالنوع: كبة كهربائية\nالسعة: 3 لتر\nالقدرة الكهربائية: 1000 وات"
+        },
+        {
+            "id": 48,
+            "name": "مضرب بيض كهربائي 7 سرعات",
+            "nameEn": "Electric Egg Beater 7 Speeds",
+            "price": 225,
+            "category": "kitchen-appliances",
+            "image": "assets/images/مضرب بيض كهربا 7  سرعات 200 وات.webp",
+            "description": "النوع: مضرب بيض كهربائي\nعدد السرعات: 7 سرعات\nالقدرة الكهربائية: 200 وات\nالاستخدام: مناسب لخفق البيض والكريمة وتحضير الحلويات"
+        },
+        {
+            "id": 49,
+            "name": "مطحنة قهوة وتوابل كهربائية 300 وات",
+            "nameEn": "Electric Coffee and Spice Grinder 300W",
+            "price": 299,
+            "category": "kitchen-appliances",
+            "image": "assets/images/مطحنة قهوة.webp",
+            "description": "النوع: مطحنة قهوة وتوابل كهربائية\nالقدرة الكهربائية: 300 وات\nالجهد الكهربائي: 220 فولت\nالاستخدام: مناسبة لطحن القهوة والتوابل والمكونات المختلفة\nالتصميم: صغيرة وسهلة الاستخدام"
+        },
+        {
+            "id": 50,
+            "name": "هاند بلندر 300 وات",
+            "nameEn": "Hand Blender 300W",
+            "price": 399,
+            "category": "kitchen-appliances",
+            "image": "assets/images/هاند بلندر 300 وات.webp",
+            "description": "النوع: هاند بلندر كهربائي\nالقدرة الكهربائية: 300 وات\nالاستخدام: مناسب للخلط وتحضير العصائر والشوربات والصلصات"
+        },
+        {
+            "id": 51,
+            "name": "شفاط هاي واي زجاج 15 سم",
+            "nameEn": "Hi Way Glass Exhaust Fan 15cm",
+            "price": 549,
+            "category": "kitchen-exhaust",
+            "image": "assets/images/شفاط هاي واي 15 سم زجاج.webp",
+            "description": "العلامة التجارية: هاي واي\nالنوع: شفاط مطبخ\nالمقاس: 15 سم\nالتصميم: زجاج"
+        },
+        {
+            "id": 52,
+            "name": "شفاط مطبخ كونكورد 8 بوصة",
+            "nameEn": "Concord Kitchen Exhaust Fan 8 Inch",
+            "price": 699,
+            "category": "kitchen-exhaust",
+            "image": "assets/images/شفاط مطبخ.webp",
+            "description": "العلامة التجارية: كونكورد\nالنوع: شفاط مطبخ\nالمقاس: 8 بوصة\nالمقاس بالسنتيمتر: 20 سم\nاللون: أبيض"
+        },
+        {
+            "id": 53,
+            "name": "شفاط مطبخ كرنفال 20 سم",
+            "nameEn": "Carnival Kitchen Exhaust Fan 20cm",
+            "price": 725,
+            "category": "kitchen-exhaust",
+            "image": "assets/images/شفاط مطبخ كرنفال 20cm 725ج.webp",
+            "description": "العلامة التجارية: كرنفال\nالنوع: شفاط مطبخ\nالمقاس: 20 سم\nالوظائف: شفط وطرد"
+        },
+        {
+            "id": 54,
+            "name": "شفاط كرنفال 25 سم اتجاهين",
+            "nameEn": "Carnival Exhaust Fan 25cm",
+            "price": 850,
+            "category": "kitchen-exhaust",
+            "image": "assets/images/شفاط مطبخ.webp",
+            "description": "العلامة التجارية: كرنفال\nالنوع: شفاط\nالمقاس: 25 سم\nالوظائف: اتجاهين"
+        },
+        {
+            "id": 55,
+            "name": "شفاط حائط فريش 25 سم اتجاهين",
+            "nameEn": "Fresh Wall Exhaust Fan 25cm",
+            "price": 1049,
+            "category": "kitchen-exhaust",
+            "image": "assets/images/شفاط حائط فريش.webp",
+            "description": "العلامة التجارية: فريش\nالنوع: شفاط حائط\nالمقاس: 25 سم\nالوظائف: اتجاهين"
+        },
+        {
+            "id": 56,
+            "name": "شفاط حائط فريش 30 سم اتجاهين",
+            "nameEn": "Fresh Wall Exhaust Fan 30cm",
+            "price": 1150,
+            "category": "kitchen-exhaust",
+            "image": "assets/images/شفاط حائط فريش.webp",
+            "description": "العلامة التجارية: فريش\nالنوع: شفاط حائط\nالمقاس: 30 سم\nالوظائف: اتجاهين"
+        },
+        {
+            "id": 57,
+            "name": "شفاط سيناتور 30 سم اتجاهين",
+            "nameEn": "Senator Exhaust Fan 30cm",
+            "price": 915,
+            "category": "kitchen-exhaust",
+            "image": "assets/images/شفاط سيناتور.webp",
+            "description": "العلامة التجارية: سيناتور\nالنوع: شفاط\nالمقاس: 30 سم\nالوظائف: اتجاهين"
+        },
+        {
+            "id": 58,
+            "name": "مكواة بخار سيراميك SILVER LOVE 1800 وات",
+            "nameEn": "Silver Love Ceramic Steam Iron 1800W",
+            "price": 799,
+            "category": "irons",
+            "image": "assets/images/مكواة بخار سيراميك SILVER LOVE 1800w.webp",
+            "description": "العلامة التجارية: SILVER LOVE\nالنوع: مكواة بخار\nقاعدة المكواة: سيراميك\nالقدرة الكهربائية: 1800 وات"
+        },
+        {
+            "id": 59,
+            "name": "مكواة تاتش الزانوكي الجافة 1000 وات",
+            "nameEn": "Touch El Zenouki Dry Iron 1000W",
+            "price": 785,
+            "category": "irons",
+            "image": "assets/images/Touch El zenouki مكواة تاتش الزانوكي الجافة 1000 واط.webp",
+            "description": "العلامة التجارية: Touch El Zenouki\nالنوع: مكواة جافة\nالقدرة الكهربائية: 1000 وات"
+        },
+        {
+            "id": 60,
+            "name": "مكواة جافة بلاك اند وايت 1300 وات",
+            "nameEn": "Black and White Dry Iron 1300W",
+            "price": 925,
+            "category": "irons",
+            "image": "assets/images/مكواة جافة بلاك اند وايت، 1300 وات،.webp",
+            "description": "العلامة التجارية: Black and White\nالنوع: مكواة جافة\nالقدرة الكهربائية: 1300 وات"
+        },
+        {
+            "id": 61,
+            "name": "مكواة بخار كينوود 2000 وات",
+            "nameEn": "Kenwood Steam Iron 2000W",
+            "price": 1789,
+            "category": "irons",
+            "image": "assets/images/مكواة بخار كينوود، 2000 وات، بنفسجي - STP46.webp",
+            "description": "العلامة التجارية: كينوود\nالنوع: مكواة بخار\nالقدرة الكهربائية: 2000 وات\nاللون: بنفسجي"
+        },
+        {
+            "id": 62,
+            "name": "طبق دش هوائي برفكس 70 سم",
+            "nameEn": "Perfect 70cm Satellite Dish",
+            "price": 370,
+            "category": "satellites-receivers",
+            "image": "assets/images/طبق دش هوائي برفكس 70 سم.webp",
+            "description": "طبق دش هوائي برفكس مقاس 70 سم، مناسب لاستقبال القنوات الفضائية."
+        },
+        {
+            "id": 63,
+            "name": "طبق دش كامكس 70 سم",
+            "nameEn": "Camix 70cm Satellite Dish",
+            "price": 350,
+            "category": "satellites-receivers",
+            "image": "assets/images/طبق دش كامكس 70 سم.webp",
+
+            "description": "طبق دش كامكس مقاس 70 سم، مناسب لاستقبال القنوات الفضائية."
+        },
+        {
+            "id": 64,
+            "name": "ريموت رسيفر بلوتوث",
+            "nameEn": "Bluetooth Receiver Remote",
+            "price": 130,
+            "category": "satellites-receivers",
+            "image": "assets/images/ريموت رسيفر بلوتوث.webp",
+            "description": "ريموت بلوتوث للتحكم في أجهزة الرسيفر."
+        },
+        {
+            "id": 65,
+            "name": "ريموت شاشة سامسونج",
+            "nameEn": "Samsung TV Remote",
+            "price": 79,
+            "category": "satellites-receivers",
+            "image": "assets/images/ريموت شاشه سامسونج.webp",
+            "description": "ريموت للتحكم في شاشات سامسونج."
+        },
+        {
+            "id": 66,
+            "name": "ريموت شاشة LG",
+            "nameEn": "LG TV Remote",
+            "price": 79,
+            "category": "satellites-receivers",
+            "image": "assets/images/ريموت شاشه lg.webp",
+            "description": "ريموت للتحكم في شاشات LG."
+        },
+        {
+            "id": 67,
+            "name": "عدسة طبق دش 1 مخرج جودة FHD",
+            "nameEn": "FHD Single Output LNB",
+            "price": 80,
+            "category": "satellites-receivers",
+            "image": "assets/images/عدسة طبق دش، واحد مخرج، جودة FHD.webp",
+
+            "description": "عدسة طبق دش بمخرج واحد، مناسبة لاستقبال إشارة بجودة FHD."
+        },
+        {
+            "id": 68,
+            "name": "عدسة طبق دش 2 مخرج",
+            "nameEn": "Dual Output LNB",
+            "price": 160,
+            "category": "satellites-receivers",
+            "image": "assets/images/عدسة طبق دش 2 مخرج.webp",
+
+            "description": "عدسة طبق دش بمخرجين، مناسبة لتوصيل أكثر من جهاز."
+        },
+        {
+            "id": 69,
+            "name": "عدسة 4 مخرج مستوردة",
+            "nameEn": "Imported Quad Output LNB",
+            "price": 240,
+            "category": "satellites-receivers",
+            "image": "assets/images/عدسه 4 مخرج  مستورده.webp",
+
+            "description": "عدسة طبق دش مستوردة بأربعة مخارج."
+        },
+        {
+            "id": 70,
+            "name": "عدسة طبق 1 مخرج ماركة نوفا الأصلي البلاك",
+            "nameEn": "Nova Original Black Single Output LNB",
+            "price": 199,
+            "category": "satellites-receivers",
+            "image": "assets/images/عدسة طبق ١ مخرج ماركة نوفا الأصلي البلاك.webp",
+
+            "description": "عدسة طبق دش نوفا الأصلية البلاك بمخرج واحد."
+        },
+        {
+            "id": 71,
+            "name": "عدسة نوفا 2 مخرج LNB NOVA Twin Port",
+            "nameEn": "NOVA Twin Port LNB",
+            "price": 349,
+            "category": "satellites-receivers",
+            "image": "assets/images/عدسه نوفا 2 مخرج – LNB NOVA twin port.webp",
+
+            "description": "عدسة نوفا Twin Port بمخرجين، مناسبة لتوصيل جهازين."
+        },
+        {
+            "id": 72,
+            "name": "سلك دش 30 ياردة أسود",
+            "nameEn": "30 Yard Satellite Cable Black",
+            "price": 100,
+            "category": "satellites-receivers",
+            "image": "assets/images/سلك اسود.webp",
+
+            "description": "سلك دش بطول 30 ياردة باللون الأسود."
+        },
+        {
+            "id": 73,
+            "name": "سلك دش 50 ياردة أسود",
+            "nameEn": "50 Yard Satellite Cable Black",
+            "price": 150,
+            "category": "satellites-receivers",
+            "image": "assets/images/سلك اسود.webp",
+
+            "description": "سلك دش بطول 50 ياردة باللون الأسود."
+        },
+        {
+            "id": 74,
+            "name": "سلك دش 30 ياردة أبيض",
+            "nameEn": "30 Yard Satellite Cable White",
+            "price": 130,
+            "category": "satellites-receivers",
+            "image": "assets/images/سلك ابيض.webp",
+
+            "description": "سلك دش بطول 30 ياردة باللون الأبيض."
+        },
+        {
+            "id": 75,
+            "name": "سلك دش 50 ياردة أبيض",
+            "nameEn": "50 Yard Satellite Cable White",
+            "price": 190,
+            "category": "satellites-receivers",
+            "image": "assets/images/سلك ابيض.webp",
+
+            "description": "سلك دش بطول 50 ياردة باللون الأبيض."
+        },
+        {
+            "id": 76,
+            "name": "ريسيفر ترومان أصلي HD بجميع مشتملاته",
+            "nameEn": "Original Truman HD Receiver",
+            "price": 599,
+            "category": "satellites-receivers",
+            "image": "assets/images/ريسيفر ترومان اصلي HD بجميع مشتملاته.webp",
+
+            "description": "ريسيفر ترومان أصلي بجودة HD، يأتي بجميع مشتملاته."
+        },
+        {
+            "id": 77,
+            "name": "رسيفر سكوب SCOPE S 2030",
+            "nameEn": "SCOPE S 2030 Receiver",
+            "price": 1099,
+            "category": "satellites-receivers",
+            "image": "assets/images/رسيفر سكوب SCOPE S 2030.webp",
+
+            "description": "رسيفر SCOPE S 2030 بمعالج 1506TV وفلاش 8، مزود بواي فاي مدمج وريموت بلوتوث، ويدعم ECAST لعرض محتوى الهاتف على الرسيفر، ويوتيوب باللغة العربية، وتحميل وتحديثات FTP أونلاين. يشمل سيرفرات SPEED IPTV لمدة 24 شهر، وX IPTV لمدة 12 شهر، وMEGA IPTV لمدة 6 أشهر، مع ضمان سنة ضد عيوب الصناعة."
+        }
+    ]
+}
