@@ -5,7 +5,7 @@ function formatPrice(price) {
 }
 
 
-const SITE_URL = "https://DOMAIN.com";
+const SITE_URL = "https://dream-sat.vercel.app";
 
 function formatPrice(price) {
     return price.toLocaleString("ar-EG") + " ج.م";
