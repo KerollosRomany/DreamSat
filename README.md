@@ -260,14 +260,6 @@ Version 1 focuses on the frontend experience and deployment, while Version 2 wil
 
 ---
 
-## 📸 Screenshots
-
-Screenshots of the website will be added here.
-
-> Screenshots can be added to this section as the project evolves.
-
----
-
 ## 📍 Business
 
 **Dream Sat**
